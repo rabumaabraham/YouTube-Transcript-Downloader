@@ -29,15 +29,11 @@ This tool leverages the [`youtube_transcript_api`](https://github.com/jdepoix/yo
 ## ⚙️ Installation & Setup
 
 # Clone this repository  
-git clone https://github.com/yourusername/youtube-transcript-downloader.git
+git clone https://github.com/rabumaabraham/YouTube-Transcript-Downloader.git
 
 # Change directory into the project folder  
-cd youtube-transcript-downloader
+cd YouTube Transcript Downloader
 
-# (Optional) Create a virtual environment  
-python3 -m venv venv  
-source venv/bin/activate   # Linux/macOS  
-venv\Scripts\activate      # Windows
 
 # Install the required Python package  
 pip install youtube-transcript-api
@@ -52,7 +48,7 @@ video_id = 'EjxL2oB7J-o'
 
 2. Run the script:
 
-python your_script_name.py
+python youtube_transcript.py
 
 3. If available, the transcript will be saved in the file `transcript.txt` in the current directory.
 
@@ -72,17 +68,12 @@ python your_script_name.py
 
 Contributions are welcome! Please feel free to:
 
-- Submit bug reports or feature requests via [Issues](https://github.com/yourusername/youtube-transcript-downloader/issues) on GitHub.  
+- Submit bug reports or feature requests via [Issues](https://github.com/rabumaabraham/YouTube-Transcript-Downloader/issues) on GitHub.  
 - Fork the repo and submit Pull Requests with improvements or fixes.  
 - Suggest enhancements or optimizations.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
 
 ## 🙏 Acknowledgements
 
